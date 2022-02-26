@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\WebCrawler.exe
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\WebCrawler.deps.json
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\WebCrawler.runtimeconfig.json
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\WebCrawler.dll
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\ref\WebCrawler.dll
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\bin\Debug\net6.0\WebCrawler.pdb
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.dll
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\ref\WebCrawler.dll
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.pdb
+C:\Users\Admin\source\repos\WebCrawler\WebCrawler\obj\Debug\net6.0\WebCrawler.genruntimeconfig.cache
